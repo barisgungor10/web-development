@@ -3,7 +3,7 @@ Here are my python3 projects following [The Complete 2023 Web Development Bootca
 
 ## Projects
 
-1. Movie Ranking Project: I learned what is HTML, HTML Heading Elements, HTML Paragraph Elements, Self Closing Tabs.
+1. Anime Ranking Project: I learned what is HTML, HTML Heading Elements, HTML Paragraph Elements, Self Closing Tabs.
 
 ![image](https://github.com/barisgungor10/web-development-projects/assets/65550845/678808cc-e692-46e2-ad47-288d504a4d00)
 
