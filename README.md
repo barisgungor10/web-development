@@ -14,3 +14,7 @@ Here are my python3 projects following [The Complete 2023 Web Development Bootca
 3. HTML Portfolio Project: I learned how to use computer file paths from HTML, what are webpages? The HTML Boilerplate.
 
 ![image](https://github.com/barisgungor10/web-development-projects/assets/65550845/4026c6b6-1ae2-45a4-83ff-4f3fedabf227)
+
+4. Capstone Project 1: 
+
+https://github.com/barisgungor10/web-development-projects/assets/65550845/583e05ec-12eb-4182-9710-9581a8a296cf
