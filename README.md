@@ -3,7 +3,7 @@ Here are my python3 projects following [The Complete 2023 Web Development Bootca
 
 ## Projects
 
-1. Anime Ranking Project: I learned what is HTML, HTML Heading Elements, HTML Paragraph Elements, Self Closing Tabs.
+1. Anime Ranking Project: I learned HTML, HTML Heading Elements, HTML Paragraph Elements, and Self Closing Tabs.
 
 ![image](https://github.com/barisgungor10/web-development-projects/assets/65550845/678808cc-e692-46e2-ad47-288d504a4d00)
 
@@ -15,6 +15,12 @@ Here are my python3 projects following [The Complete 2023 Web Development Bootca
 
 ![image](https://github.com/barisgungor10/web-development-projects/assets/65550845/4026c6b6-1ae2-45a4-83ff-4f3fedabf227)
 
-4. Capstone Project 1: 
+4. Capstone Project 1: ---
 
-https://github.com/barisgungor10/web-development-projects/assets/65550845/583e05ec-12eb-4182-9710-9581a8a296cf
+https://github.com/barisgungor10/web-development-projects/assets/65550845/583e05ec-12eb-418
+
+5. Color Vocab Project: I learned why we need CSS and CSS Selectors and how to add CSS.
+
+https://github.com/barisgungor10/web-development-projects/assets/65550845/97981c94-1ac7-462f-8706-7b79837785a8
+
+6. 
