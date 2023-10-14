@@ -1,0 +1,21 @@
+html{
+    background-color: black;
+}
+#duck-div{
+    width: 50%;
+    margin-left: 25%;
+}
+#duck-img{
+    width: 100%;
+    border: 5px solid white;
+}
+.text{
+    text-align: center;
+    color: white;
+}
+h1{
+    text-transform: uppercase;
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Roboto', sans-serif;
+}
