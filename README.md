@@ -23,4 +23,8 @@ https://github.com/barisgungor10/web-development-projects/assets/65550845/583e05
 
 https://github.com/barisgungor10/web-development-projects/assets/65550845/97981c94-1ac7-462f-8706-7b79837785a8
 
-6. 
+6. Motivational Meme Project: I learned CSS Colours, Font Properties, Inspecting CSS, The CSS Box Model- Margin, Padding and Border.
+
+![image](https://github.com/barisgungor10/web-development-projects/assets/65550845/d74b7ae0-7bc9-4b55-9038-7dba44f58172)
+
+7. 
